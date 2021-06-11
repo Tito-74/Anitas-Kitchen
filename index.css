@@ -1,11 +1,15 @@
+*{
+    margin: 0px;
+}
 header{
     background-image: url(./backgrounds/landing.jpg);
     background-position: center;
     text-align: center;
 }
-/* header>img{
-    align-items: center;
-} */
+body{
+    margin: 10px;
+}
+
 .container>p{
     font-size:x-large;
 }
@@ -13,23 +17,45 @@ header{
     display: flex;
 }
 .col{
-    width: 150px;
-    height: 100px;
+    width: 280px;
+    height: 190px;
+
+}
+.Row{
+    display: flex;
 }
 #breakfast{
     background-image: url('./foodtop/breakfast.jpg');
     background-repeat: no-repeat;
     background-position: center;
+    text-align: center;
 }
 #lunch{
     background-image: url('./foodtop/lunch.jpg');
     background-repeat: no-repeat;
-    clear: both;
     background-position: center;
+    text-align: center;
 }
 #dinner{
     background-image: url('./foodtop/dinner.jpg');
     background-repeat: no-repeat;
     background-position:center;
     background-color: blue;
+    text-align: center;
+}
+ul{
+    width: 280px;
+    height: 190px;
+    background-color: lightsalmon;
+    display: inline-block;
+    margin-top: 0px;
+
+}
+li{
+    width: 190px;
+    height: 95px;
+    text-align: center;
+    padding: 18px;
+    list-style: none;
+    
 }
