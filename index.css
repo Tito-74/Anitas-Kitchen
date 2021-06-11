@@ -1,5 +1,6 @@
 *{
-    margin: 0px;
+    margin:0;
+
 }
 header{
     background-image: url(./backgrounds/landing.jpg);
@@ -7,7 +8,7 @@ header{
     text-align: center;
 }
 body{
-    margin: 10px;
+    /* margin: 15px; */
 }
 
 .container>p{
@@ -15,20 +16,27 @@ body{
 }
 .meal{
     display: flex;
+
 }
 .col{
-    width: 280px;
+    width: 350px;
     height: 190px;
 
 }
 .Row{
     display: flex;
+    background-color: lime;
+
+
 }
 #breakfast{
     background-image: url('./foodtop/breakfast.jpg');
     background-repeat: no-repeat;
     background-position: center;
+    /* background-size: cover; */
+    object-fit: cover;
     text-align: center;
+
 }
 #lunch{
     background-image: url('./foodtop/lunch.jpg');
@@ -40,22 +48,63 @@ body{
     background-image: url('./foodtop/dinner.jpg');
     background-repeat: no-repeat;
     background-position:center;
-    background-color: blue;
     text-align: center;
 }
 ul{
-    width: 280px;
+    width: 320px;
     height: 190px;
-    background-color: lightsalmon;
-    display: inline-block;
-    margin-top: 0px;
+    background-color: #f52f42;
+
+    /* margin-top: 0px; */
 
 }
 li{
-    width: 190px;
+    width: 350px;
     height: 95px;
     text-align: center;
-    padding: 18px;
+    padding: 20px;
     list-style: none;
     
+}
+#fastfood{
+    /* border: 1px solid black;
+    width: 300px;
+    height: 250px;
+    box-shadow: 5px 5px 5px grey */
+    background-color: rgb(230, 120, 120);
+    width: 450px;
+    height: 300px;
+    border: 15px solid rgb(242, 245, 242);
+    box-shadow: 2px 2px 2px rgb(242, 245, 242);
+    /* padding: 5px; */
+    margin: 20px;
+}
+.fastfood{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20%;
+    margin-right: 15%;
+    background-color: lightskyblue;
+}
+#fast-text{
+    /* width: 450px;
+    height: 300px;
+    text-align: center;
+    border: 1px solid blue; */
+    background-color: rgb(241, 238, 238);
+    width: 450px;
+    height: 300px;
+    border: 15px solid rgb(52, 19, 196);
+    box-shadow: 2px 2px 2px rgb(242, 245, 242);
+    margin: 20px;
+    padding: 5px;
+    display: inline-block;
+}
+.Drinks{
+    display:flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20%;
+    margin-right: 15%;
 }
