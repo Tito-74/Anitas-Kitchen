@@ -1,5 +1,5 @@
-# Anitas Kitchen Web
-# Langat Tito Kipkirui
+# Project Name: Anitas Kitchen Web
+# Author: Langat Tito Kipkirui
 ## Project Description
 This is a web page for a restaurant , it contains pictures of menu that is offered .
 
@@ -16,5 +16,6 @@ To fix a bug or enhance an existing module, follow these steps:
 tito-74.github.io/anitas-kitchen/
 
 ### License
+© LangatTito @ MORINGA SCHOOL
 
 
