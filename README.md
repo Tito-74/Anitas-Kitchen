@@ -7,6 +7,9 @@ This is a web page for a restaurant , it contains pictures of menu that is offer
 .Github
 .html
 .css
+# How it works
+if you are intrested in learning HTML and CSS
+https://www.w3schools.com/html/
 ## Setup/Installation Requirements
 To fix a bug or enhance an existing module, follow these steps:
 
