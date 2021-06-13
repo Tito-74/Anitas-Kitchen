@@ -22,9 +22,9 @@ header span{
 .container-2{
     display: flex;
     margin-top: -25px;
-  }
+}
   
-  .meals{
+.meals{
     width: 25%;
     height: 200px;
     align-items: center;
@@ -56,7 +56,7 @@ header span{
     background-color: #f15a29;
   }
   
-  .happy div{
+.happy div{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -154,7 +154,7 @@ button{
 .one{
     float: right;
 }
-two{
+.two{
 float: left;
 }
 #fast-text > a {
@@ -209,34 +209,29 @@ height: 300px;
 .contacts{
     background-image: url("./backgrounds/subscribe.jpg");
     background-position: center;
+    background-color: tomato;
+    background-size: cover;
     background-repeat: no-repeat;
     align-items: center;
     color: white;
     font-size:large;
-    padding: 40px;
-    width: 100%;
+    padding:40px;
+    width:auto;
     height: 250px;
 } 
 .contacts,p{
     text-align: center;
 }
-#email{
-    align-items: center;
-    margin-top: 5%;
-    margin-left: 25%;
-    text-align: center;
-
-}
-.sub{
+/* .sub{
     margin-top: 5%;
 
-}
+} */
 .social{
     background-color:red;
     width: 100%;
     height: 250px;
-
-    align-items: center;
+    /* align-items: center; */
+    margin-top: 5px;
     justify-content: center;
     flex-direction: row;
 }
@@ -270,11 +265,11 @@ th {
     color: #F15A29;
     background-color: white;
   }
-  .img_res {
+  /* .img_res {
     background-color: white;
     box-sizing: border-box;
     padding: 26px;
-  }
+  } */
   .menu_section {
     color: #F15A29;
     display: flex;
@@ -288,7 +283,7 @@ th {
   }
   .menu_section p {
     font-size: 30px;
-    font-weight: 900 !important;
+    font-weight: 900;
   }
   .img-1 {
     display: flex;
