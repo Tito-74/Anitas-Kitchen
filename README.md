@@ -1,21 +1,21 @@
-# Project Name: Anitas Kitchen Web
-# Author: Langat Tito Kipkirui
-## Project Description
-This is a web page for a restaurant , it contains pictures of menu that is offered .
+Project Name: Anitas Kitchen Web
+Author: Langat Tito Kipkirui
+Project Description
+This is a web page for a restaurant , it contains pictures of menu that is offered . This can be integrated in existing system.
 
-## Technologies used
-.Github
-.html
-.css
-## Setup/Installation Requirements
+Technologies used
+.Github .html .css
+
+How it works
+if you are intrested in learning HTML and CSS https://www.w3schools.com/html/
+
+Setup/Installation Requirements
 To fix a bug or enhance an existing module, follow these steps:
 
 .Fork the repo .Create a new branch (git checkout -b improve-feature) .Make the appropriate changes in the files .Add changes to reflect the changes made .Commit your changes (git commit -am 'Improve feature') .Push to the branch (git push origin improve-feature) .Create a Pull Request
 
-# view the site :
+view the site :
 tito-74.github.io/anitas-kitchen/
 
-### License
+License
 © LangatTito @ MORINGA SCHOOL
-
-
