@@ -173,6 +173,9 @@ button{
     text-align: center;
     display: flex;
 }
+.customer h2{
+    color: red;
+}
 .info{
     flex-direction: row;
     width: 450px;
