@@ -3,6 +3,7 @@ header{
     background-image: url("./backgrounds/landing.jpg");
     background-position: center;
     text-align: center;
+    padding: 30px;
 }
 header span{
     color: rgb(242, 245, 242);
