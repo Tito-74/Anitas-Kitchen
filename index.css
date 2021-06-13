@@ -152,10 +152,10 @@ button{
     padding: 10px;
 }
 .one{
-    float: right;
+    float: left;
 }
 .two{
-float: left;
+float: right;
 }
 #fast-text > a {
     color: red;
