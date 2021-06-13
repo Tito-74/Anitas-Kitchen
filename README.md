@@ -1,7 +1,7 @@
 # Project Name: Anitas Kitchen Web
 # Author: Langat Tito Kipkirui
 ## Project Description
-This is a web page for a restaurant , it contains pictures of menu that is offered .
+This is a web page for a restaurant , it contains pictures of menu that is offered . This can be integrated in existing system.
 
 ## Technologies used
 .Github
