@@ -151,6 +151,12 @@ button{
     color: red;
     padding: 10px;
 }
+.one{
+    float: right;
+}
+two{
+float: left;
+}
 #fast-text > a {
     color: red;
 }
