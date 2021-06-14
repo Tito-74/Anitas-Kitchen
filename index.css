@@ -1,4 +1,6 @@
 
+ @media only screen and (min-width:500px){
+
 header{
     background-image: url("./backgrounds/landing.jpg");
     background-position: center;
@@ -111,56 +113,107 @@ header span{
     width:300px;
 
 }
-.Drinks{
+/* Start of new swction*/
+.foodndrink{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 20px;
+    
+}
+.cfood{
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+
+    
+}
+.ftxt{
+    padding-left: 10px;
+    border: 5px white solid;
+    box-shadow: 5px 5px 5px 5px grey;
+    width: 43%;
+    
+}
+.fimg{
+    border: 5px white solid;
+    box-shadow: 5px 5px 5px 5px grey;
+    width: 43%;
+    padding: 10px;
+    
+
+}
+.cdrinks{
+    display: flex;
+    text-align: right;
+    margin-top: 20px;
+    justify-content: space-between;
+    
+    
+
+
+}
+.dimg{
+    display: flex;
+    border: 5px white solid;
+    box-shadow: 5px 5px 5px 5px grey;
+    width: 43%;
+    padding: 10px;
+    
+
+}
+
+
+/* End*/
+/* .Drinks{
     display:flex;
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-left: 20%;
-    margin-right: 15%;
-}
-.Drinks-1{
-    width: 450px;
+    width: 100%;
+} */
+/* .Drinks-1{
+    width: 40%;
     height: 300px;
     border: 15px solid rgb(242, 245, 242);
     box-shadow: 2px 2px 2px rgb(242, 245, 242);
     margin: 20px;
     display: flex;
-}
-.fastfood{
+} */
+/* .fastfood{
     display: flex;
+    margin-left: 10%;
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-left: 20%;
-    margin-right: 15%;
     flex-direction: row;
+    width: 100%;
+    overflow: auto;
   
-}
-#fastfood-2{
+} */
+/* #fastfood-2{
     margin-top: -5px;
+    
 }
 #fastfood{
-    width: 450px;
+    width: 40%;
     height: 300px;
     border: 15px solid rgb(242, 245, 242);
     box-shadow: 2px 2px 2px rgb(242, 245, 242);
     margin: 20px;
 
-}
-.text{
+} */
+/* .text{
     background-color: rgb(241, 238, 238);
-    width: 450px;
+    width:40%;   
     height: 300px;
     border: 15px solid rgb(242, 245, 242);
     box-shadow: 2px 2px 2px rgb(242, 245, 242);
-    margin: 20px;
     padding: 5px;
-}
-#fast-text-1{
+} */
+/* #fast-text-1{
     text-align: right;
 }
 #fast-text-2{
     text-align: left;
-}
+} */
 button{
     background-color: white;
     border: 1px solid red;
@@ -173,9 +226,9 @@ button{
 .two{
 float: right;
 }
-#fast-text > a {
+/* #fast-text > a {
     color: red;
-}
+} */
 
 .customer{
     width: 60%;
@@ -315,4 +368,5 @@ footer{
     text-align: center;
     width: 100%; 
 
+}
 }
