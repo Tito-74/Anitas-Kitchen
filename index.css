@@ -118,6 +118,7 @@ header span{
     width: 70%;
     margin-left: 15%;
     margin-top: 20px;
+    margin-bottom: 20px;
     
 }
 .cfood{
@@ -164,56 +165,7 @@ header span{
 
 
 /* End*/
-/* .Drinks{
-    display:flex;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 100%;
-} */
-/* .Drinks-1{
-    width: 40%;
-    height: 300px;
-    border: 15px solid rgb(242, 245, 242);
-    box-shadow: 2px 2px 2px rgb(242, 245, 242);
-    margin: 20px;
-    display: flex;
-} */
-/* .fastfood{
-    display: flex;
-    margin-left: 10%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    flex-direction: row;
-    width: 100%;
-    overflow: auto;
-  
-} */
-/* #fastfood-2{
-    margin-top: -5px;
-    
-}
-#fastfood{
-    width: 40%;
-    height: 300px;
-    border: 15px solid rgb(242, 245, 242);
-    box-shadow: 2px 2px 2px rgb(242, 245, 242);
-    margin: 20px;
 
-} */
-/* .text{
-    background-color: rgb(241, 238, 238);
-    width:40%;   
-    height: 300px;
-    border: 15px solid rgb(242, 245, 242);
-    box-shadow: 2px 2px 2px rgb(242, 245, 242);
-    padding: 5px;
-} */
-/* #fast-text-1{
-    text-align: right;
-}
-#fast-text-2{
-    text-align: left;
-} */
 button{
     background-color: white;
     border: 1px solid red;
